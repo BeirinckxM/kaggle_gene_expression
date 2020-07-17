@@ -1,4 +1,4 @@
-# kaggle_gene_expression
+# kaggle_gene_expression_classifier
 A project on a microarray gene expression dataset from kaggle trying to classify two types of cancers. 
 
 
